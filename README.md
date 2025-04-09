@@ -1,5 +1,9 @@
 # 🧠 Gemini Research Paper Summarizer & Q&A Tool
 
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-green?logo=streamlit)](https://summarygenerator-9ohffqczfqdtwxlqxdykas.streamlit.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
+
 An intelligent web app powered by **Google's Gemini 2.0 Flash** and **LangChain**, designed to **summarize academic papers** and **answer questions** — all through a slick **Streamlit** interface.
 
 Whether you're a student, researcher, or just curious, this tool breaks down complex research into human-friendly summaries and supports real-time Q&A over the content.
